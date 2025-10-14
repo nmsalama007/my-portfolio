@@ -40,3 +40,8 @@ Market Targeting: Hosts with larger properties can capitalize on the high demand
 Investment Opportunities: Investors might consider focusing on properties that can be expanded or renovated to accommodate larger groups, tapping into the higher revenue potential of such listings.
 Competitive Pricing: Smaller accommodations (1-4 guests) should focus on competitive pricing and differentiation through unique offerings or enhanced guest experiences to stand out in a more crowded segment.
 These insights can help hosts, investors, and policymakers understand the pricing dynamics and demand trends in the Paris Airbnb market, aiding in strategic decision-making and market positioning.
+
+
+1. **[Email Marketing Analysis ]((https://gist.github.com/nmsalama007/204180b16ddfb254617172029f2fce92))**
+Data exploration project based on Mary Knoeferl's October challenge.
+Analyzed engagement and unsubscribe patterns across campaigns, categories, and send hours.
